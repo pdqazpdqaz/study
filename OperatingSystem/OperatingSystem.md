@@ -5,6 +5,8 @@ H/W의 관리 및 응용 SW를 실행하기 위하여 하드웨어 추상화 플
 
 사용자와 컴퓨터 하드웨어 간의 인터페이스 역할을 하고 모든 종류의 프로그램 실행을 제어하는 프로그램
 
+![Operating System](https://user-images.githubusercontent.com/84111446/133872377-6ee22a66-de13-4cfb-8f5f-d68ae6590a03.PNG)
+
 ***
 
 ## 운영체제의 목적
