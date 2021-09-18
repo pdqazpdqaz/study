@@ -27,3 +27,5 @@ H/W의 관리 및 응용 SW를 실행하기 위하여 하드웨어 추상화 플
 
 4. 파일 관리자
 - 파일의 접근 제한을 관리하거나 파일을 열어 자원을 할당하거나 파일을 닫아 자원을 회수하는 일 등을 수행
+
+![OperatingSystem](https://user-images.githubusercontent.com/84111446/133869936-830dce29-c397-4c55-bd8f-c08ef734eb1c.PNG)
